@@ -119,20 +119,20 @@ namespace Colision
                     if (difY >= -100 && difY <= 100) { 
                     button1.Text = "Colision !!";
                     button1.BackColor = Color.Red;
-                    pictureBox1.Image = Image.FromFile(imagePath);
+                        pictureBox1.Image = Properties.Resources.SquareRed; //Image.FromFile(imagePath);
                     }
                     else
                     {
                         button1.Text = "No Hay Colision";
                         button1.BackColor = Color.LightGreen;
-                        pictureBox1.Image = Image.FromFile(imagePath3);
+                        pictureBox1.Image = Properties.Resources.CircleRed2;//Image.FromFile(imagePath3);
                     }
                 }
                 else
                 {
                     button1.Text = "No Hay Colision";
                     button1.BackColor = Color.LightGreen;
-                    pictureBox1.Image = Image.FromFile(imagePath3);
+                    pictureBox1.Image = Properties.Resources.CircleRed2;// Image.FromFile(imagePath3);
                 }
 
             }
@@ -171,20 +171,20 @@ namespace Colision
                     {
                         button1.Text = "Colision !!";
                         button1.BackColor = Color.Red;
-                        pictureBox2.Image = Image.FromFile(imagePath2);
+                        pictureBox2.Image = Properties.Resources.SquareGreen;//Image.FromFile(imagePath2);
                     }
                     else
                     {
                         button1.Text = "No Hay Colision";
                         button1.BackColor = Color.LightGreen;
-                        pictureBox2.Image = Image.FromFile(imagePath4);
+                        pictureBox2.Image = Properties.Resources.CircleGreen;//Image.FromFile(imagePath4);
                     }
                 }
                 else
                 {
                     button1.Text = "No Hay Colision";
                     button1.BackColor = Color.LightGreen;
-                    pictureBox2.Image = Image.FromFile(imagePath4);
+                    pictureBox2.Image = Properties.Resources.CircleGreen;//Image.FromFile(imagePath4);
                 }
 
             }

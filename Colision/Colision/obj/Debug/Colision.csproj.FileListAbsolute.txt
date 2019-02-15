@@ -18,3 +18,13 @@ E:\Documentos\Personal\Especialización\Colision\Colision\obj\Debug\Colision.pdb
 E:\Documentos\Personal\Especialización\Colision\Colision\bin\Debug\Colision.exe.config
 E:\Documentos\Personal\Especialización\Colision\Colision\bin\Debug\Colision.exe
 E:\Documentos\Personal\Especialización\Colision\Colision\bin\Debug\Colision.pdb
+F:\Especializacion\Informatica\Repos\Colision\Colision\bin\Debug\Colision.exe.config
+F:\Especializacion\Informatica\Repos\Colision\Colision\bin\Debug\Colision.exe
+F:\Especializacion\Informatica\Repos\Colision\Colision\bin\Debug\Colision.pdb
+F:\Especializacion\Informatica\Repos\Colision\Colision\obj\Debug\Colision.csprojAssemblyReference.cache
+F:\Especializacion\Informatica\Repos\Colision\Colision\obj\Debug\Colision.Form1.resources
+F:\Especializacion\Informatica\Repos\Colision\Colision\obj\Debug\Colision.Properties.Resources.resources
+F:\Especializacion\Informatica\Repos\Colision\Colision\obj\Debug\Colision.csproj.GenerateResource.cache
+F:\Especializacion\Informatica\Repos\Colision\Colision\obj\Debug\Colision.csproj.CoreCompileInputs.cache
+F:\Especializacion\Informatica\Repos\Colision\Colision\obj\Debug\Colision.exe
+F:\Especializacion\Informatica\Repos\Colision\Colision\obj\Debug\Colision.pdb
